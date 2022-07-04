@@ -1,0 +1,7 @@
+.rouge{
+    background-color: red;
+}
+table,td,th{
+    border:  black solid 3px;
+    border-collapse: collapse;
+}
