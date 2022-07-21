@@ -6,4 +6,3 @@ Let's suppose that the data in each file corresponding to the list of students w
 2. Create an associative table in which you put for each student how many times was absent during the period of: 01-03-2022 and 21-04-2022 then display it.
 
 
-Translated with www.DeepL.com/Translator (free version)
